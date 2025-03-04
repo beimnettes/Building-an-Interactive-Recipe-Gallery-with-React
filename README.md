@@ -52,4 +52,4 @@ This will launch the application at **http://localhost:3000/**.
 - Allow users to upload **custom images**.
 - Implement a **carousel auto-play feature**.
 
-💖 Enjoy exploring your **beautiful recipe gallery**! Let me know if you have any customization requests. 😊
+
